@@ -28,3 +28,5 @@ pipeline {
         }
     }
 }
+// Jenkinsfile for CI/CD pipeline
+// Stages: Install, Test, Build, Deploy to Vercel
